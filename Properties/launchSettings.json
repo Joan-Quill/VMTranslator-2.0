@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "VMTranslator2": {
+      "commandName": "Project",
+      "commandLineArgs": "\\FibonacciElement",
+      "workingDirectory": "C:\\Users\\JoJo\\source\\repos\\VMTranslator2"
+    }
+  }
+}
